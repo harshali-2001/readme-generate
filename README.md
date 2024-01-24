@@ -9,7 +9,7 @@
 | 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
 | 07 | [Cities With Completed Trades ](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Cities%20With%20Completed%20Trades.sql)
 | 08 | [Average Review Ratings ](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Average%20Review%20Ratings.sql)
-| 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
+| 09 | [App Click-through Rate ](https://datalemur.com/questions/click-through-rate) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/App%20Click-through%20Rate.sql)
 | 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
 | 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
 | 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
