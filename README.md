@@ -6,7 +6,6 @@
 | 03 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Page%20With%20No%20Likes.sql)
 | 04 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Unfinished%20Parts.sql)
 | 05 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Laptop%20vs.%20Mobile%20Viewership.sql)
-
 | 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
 | 07 | [Cities With Completed Trades ](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Cities%20With%20Completed%20Trades.sql)
 | 08 | [Average Review Ratings ](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Average%20Review%20Ratings.sql)
