@@ -10,7 +10,17 @@
 | 07 | [Cities With Completed Trades ](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Cities%20With%20Completed%20Trades.sql)
 | 08 | [Average Review Ratings ](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Average%20Review%20Ratings.sql)
 | 09 | [App Click-through Rate ](https://datalemur.com/questions/click-through-rate) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/App%20Click-through%20Rate.sql)
-| 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
-| 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
-| 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
-| 06 | [Duplicate Job Listings ](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Duplicate%20Job%20Listings%20.sql)
+| 10 | [Second Day Confirmation ](https://datalemur.com/questions/second-day-confirmation) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Second%20Day%20Confirmation.sql)
+| 11 | [Cards Issued Difference ](https://datalemur.com/questions/cards-issued-difference) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Cards%20Issued%20Difference.sql)
+| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
+| 13 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%201).sql)
+| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
+| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
+| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
+| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
+
+
+**<span style="color:green">Easy</span>**
+
+
+
