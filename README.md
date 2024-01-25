@@ -22,6 +22,8 @@
 
 **<span style="color:green">Easy</span>**
 
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Easy`
+
 
 ```diff
 - text in red
