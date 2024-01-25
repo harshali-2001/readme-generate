@@ -2,7 +2,7 @@
 | Level| ID | Challenge | Solution Script |
 |:------:|:------:|------------|:---------:|
 |🟩 **Easy**| 01 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Histogram%20of%20Tweets.sql)
-|🟩 **Easy**$| 02 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Data%20Science%20Skills.sql)
+|🟩 **Easy**| 02 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Data%20Science%20Skills.sql)
 |🟩 **Easy**| 03 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Page%20With%20No%20Likes.sql)
 |🟩 **Easy** | 04 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Unfinished%20Parts.sql)
 |🟩 **Easy** | 05 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Laptop%20vs.%20Mobile%20Viewership.sql)
@@ -14,11 +14,8 @@
 |🟩 **Easy**| 11 | [Cards Issued Difference ](https://datalemur.com/questions/cards-issued-difference) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Cards%20Issued%20Difference.sql)
 |🟩 **Easy**| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
 |🟩 **Easy**| 13 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%201).sql)
-|🟩 **Easy**| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
-|🟩 **Easy**| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
-|🟩 **Easy**| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
-| 12 | [Compressed Mean ](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Compressed%20Mean.sql)
-
+|🟩 **Easy**| 14 | [Pharmacy Analytics (Part 2) ](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%202)%20.sql)
+|🟩 **Easy**| 15 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%203).sql)
 
 **<span style="color:green">Easy</span>**
 
