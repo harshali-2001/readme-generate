@@ -1,7 +1,7 @@
 # readme-generate
 
 
-| Level| ID | Challenge | Solution |
+| Level| ID | Question | Solution |
 |:------:|:------:|------------|:---------:|
 |🟩 **Easy**| 01 | [Find Viewers with Multiple Article Views in a Day](https://www.dataexpert.io/question/find-multiple-article-viewers) | [Solution](https://github.com/harshali-2001/Data-Engineer-SQL-Questions-by-dataexpert.io/blob/main/Easy/Find%20Viewers%20with%20Multiple%20Article%20Views%20in%20a%20Day.md)|
 |🟩 **Easy**| 02 | [Find Viewers with Multiple Article Views in a Day](https://www.dataexpert.io/question/check-test-answers) | [Solution](https://github.com/harshali-2001/Data-Engineer-SQL-Questions-by-dataexpert.io/blob/main/Easy/Check%20Test%20Answers.md)
