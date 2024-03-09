@@ -30,11 +30,9 @@
 ***
 
 
-| Level| ID | Challenge | Discription | Solution Script |
+| Level| ID | Challenge | Discription | Solution |
 |:------:|:------:|------------|:---------:|:---------:|
-|🟩 **Easy**| 01 |Using table playground.suspect, filter out suspects who cannot be the bank robber based on the following clues: the robber is not taller than 170cm, and their name matches the pattern "B. Gre?n" where the first letter of the name is "B" or "b" and the surname is similar to "Green" but with the fourth letter being unreadable and potentially any character. The match should be case-insensitive. For each suspect that fits these criteria, select their id, name, and surname. Order the results by suspect id in ascending order.|  [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Histogram%20of%20Tweets.sql)
-|🟩 **Easy**| 02 |Using table playground.suspect, filter out suspects who cannot be the bank robber based on the following clues: the robber is not taller than 170cm, and their name matches the pattern "B. Gre?n" where the first letter of the name is "B" or "b" and the surname is similar to "Green" but with the fourth letter being unreadable and potentially any character. The match should be case-insensitive. For each suspect that fits these criteria, select their id, name, and surname. Order the results by suspect id in ascending order. | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Data%20Science%20Skills.sql)
-|🟩 **Easy**| 03 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Page%20With%20No%20Likes.sql)
+|🟩 **Easy**| 01 | [Find Viewers with Multiple Article Views in a Day](https://www.dataexpert.io/question/find-multiple-article-viewers) |Using the table playground.views, write a SQL query to identify all viewers who viewed more than one article on the same day. The table includes columns viewer_id (the ID of the viewer), article_id (the ID of the article viewed), and view_date (the date of the view). The result should contain a single column named viewer_id, listing each viewer who meets the criteria without duplicates, and should be sorted in ascending order of viewer_id.| [Solution](https://github.com/harshali-2001/Data-Engineer-SQL-Questions-by-dataexpert.io/blob/main/Easy/Find%20Viewers%20with%20Multiple%20Article%20Views%20in%20a%20Day.md)
 
 **<span style="color:green">Easy</span>**
 
